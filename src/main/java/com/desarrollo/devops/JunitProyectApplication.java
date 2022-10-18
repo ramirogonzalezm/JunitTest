@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JunitProyectApplication {
 
 	public static void main(String[] args) {	
-	
 		SpringApplication.run(JunitProyectApplication.class, args);
 	}
 
